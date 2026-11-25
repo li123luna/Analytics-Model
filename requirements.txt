@@ -1,0 +1,8 @@
+pandas
+numpy
+statsmodels
+scipy
+scikit-learn
+matplotlib
+# only needed for the web/ skeleton
+django>=6.1
